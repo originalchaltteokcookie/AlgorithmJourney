@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "stack": "cpp"
+        "stack": "cpp",
+        "baekjoon1874": "cpp"
     }
 }
